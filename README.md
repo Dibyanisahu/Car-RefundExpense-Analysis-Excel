@@ -1,6 +1,6 @@
 # 🚗 Car Refund Expense Analysis
 
-🔗 **Live Dashboard**: [View Tableau Dashboard](https://public.tableau.com/views/Auto1_17512022700310/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 **Expense Analysis Dashboard**: [View Tableau Dashboard](https://public.tableau.com/views/Auto1_17512022700310/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Project Overview
 
